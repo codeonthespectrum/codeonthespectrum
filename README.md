@@ -1,36 +1,43 @@
 # Welcome! 👋  
 
-Hi! I'm Kim, a first-year Data Management student at Federal University of Piauí (Brazil) with a passion for learning, creating, and solving problems. I love diving into projects that blend technology and helps people.
+Hi! I'm Kim, a first-year Data Management student at Federal University of Piauí in Brazil, passionate about creating AI solutions that bridge technology and social impact. Constantly exploring how data can solve real-world problems.
 
 ---
 
 👀 **Currently, I'm...**  
-- 💻 Conducting **machine learning research**: developing an AI to identifiy types of text
-- 🎥 Developing an **AI to detect movie languages and generate subtitles**: This includes translating them into Brazilian Portuguese, aiming to make media more accessible.  
-- 🌐 Using `python` to make and explore random projects as I learn, such as: 
-  - A PDF-to-audio converter in Portuguese.  
-  - A fake news detector.  
-  - A recommendation system for movies.
-- And, most importantly: bringing life to ideas with code 😄
+- 🛠️ Developing **Portuguese hate speech detection ML**: Machine learning models to identify toxic content in Brazilian digital spaces
+- 🔍 Deepening my Machine Learning Research: Improving image-classification
+- 🐍 Mastering `Python` through innovative projects like:
+  - Smart PDF-to-audio converter with natural pauses
+  - Context-aware fake news detector
+  - AI-powered movie recommendation engine
+- ⚡ Prototyping solutions that make tech more human-centric
 
 ---
 
 ⚡ **Previously, I...**  
-- 🔥 Build a **fire alert app in Brazil**: It enables users to anonymously report fire outbreaks and contact firefighters directly.
-- 🖥️ Created an **offensive language blocker**: An automation project to combat online toxicity.    
-- 🏥 Built **data analysis tools**: Automated solutions for the healthcare industry with `R`
-- 💚 Made AI have feelings with my **emotions detector ai**
-- 🎥 Graduated in Audiovisual Production
+- 🎬 Created **multilingual movie AI**: Automated system for language detection and Portuguese subtitle generation
+- 🚨 Built **FireAlert App**: Crowdsourced wildfire reporting platform with direct emergency services integration
+- 🤖 Developed **toxicity filter**: Real-time offensive content blocker using NLP
+- 📈 Automated healthcare data pipelines with `R` for faster analysis
+- 🎓 Graduated in Audiovisual Production (yes, I speak film language too!)
 
 ---
 
-🤔 **I enjoy thinking about...**  
-- How we connect with others through technology 
-- Innovative ways to use AI and data analysis for impactful solutions
-- How wecan help each other
+🤔 **I think about...**  
+- Ethical AI development
+- Technology as a tool for social connection  
+- Human-centered data solutions  
+- How to make complex tech accessible
 
 ---
 
-📬 **Let’s connect!**  
-If you’d like to collaborate or discuss exciting ideas, feel free to reach out:  
-**Email**: [gabrielly.gomes@ufpi.edu.br] [barbiedeti@protonmail.com]  
+📬 **Let’s connect & collaborate!**  
+- 🌐 Portfolio: www.codeonthespectrum.online 
+- 💌 Want insights? [Read my newsletter](https://substack.com/@codeonthespectrum/posts)  - available only in portuguese 🇧🇷
+- 💼 Professional stuff? [LinkedIn](https://www.linkedin.com/in/gabrielly-gomes-ml/)  
+- 📧 Reach me directly:  
+  [gabrielly.gomes@ufpi.edu.br] | [barbiedeti@protonmail.com]
+  
+
+🚀 Let's turn ideas into reality!
