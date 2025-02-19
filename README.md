@@ -1,7 +1,7 @@
 # Welcome! 👋  
 
 Hi! I'm Kim, a first-year Data Management student at Federal University of Piauí in Brazil, passionate about creating AI solutions that bridge technology and social impact. Constantly exploring how data can solve real-world problems.
-
+                            
 ---
 
 👀 **Currently, I'm...**  
@@ -35,9 +35,8 @@ Hi! I'm Kim, a first-year Data Management student at Federal University of Piau�
 📬 **Let’s connect & collaborate!**  
 - 🌐 Portfolio: www.codeonthespectrum.online 
 - 💌 Want insights? [Read my newsletter](https://substack.com/@codeonthespectrum/posts)  - available only in portuguese 🇧🇷
-- 💼 Professional stuff? [LinkedIn](https://www.linkedin.com/in/gabrielly-gomes-ml/)  
-- 📧 Reach me directly:  
-  [gabrielly.gomes@ufpi.edu.br] | [barbiedeti@protonmail.com]
+- 💼 Professional stuff? <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="gabrielly-gomes-ml" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabrielly-gomes-ml?trk=profile-badge">Gabrielly Gomes 🧩</a></div>
+- 📧 Reach me directly: [gabrielly.gomes@ufpi.edu.br]
   
 
 🚀 Let's turn ideas into reality!
