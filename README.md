@@ -1,27 +1,21 @@
 # Welcome! 👋  
 
-Hi! I'm Kim, a first-year Data Management student at Federal University of Piauí in Brazil, passionate about creating AI solutions that bridge technology and social impact. Constantly exploring how data can solve real-world problems.
+Hi! I'm Gabrielly, but you can call me **kimi** 😁 I am a first-year Data student at Federal University of Piauí in Brazil, passionate about creating AI solutions that bridge technology and social impact. Constantly exploring how data can solve real-world problems.
 
 ---
 
 👩‍💻 **Currently, I'm...**  
 - 💼 Working as a **Data Engineering Assistant**: Automating data workflows using `Spark`, `Python`, `SQL`, and `Databricks`
-- 🛠️ Developing **Portuguese hate speech detection ML**: Machine learning models to identify toxic content in Brazilian digital spaces
-- 🔍 Deepening my Machine Learning Research: Improving image classification
-- 🐍 Mastering `Python` through innovative projects like:
-  - Smart PDF-to-audio converter with natural pauses
-  - Context-aware fake news detector
-  - AI-powered movie recommendation engine
+- 💧 Developing a ML model to identify epidemics caused by water in Brazil Northeast
 - ⚡ Prototyping solutions that make tech more human-centric  
 
 ---
 
 ⚡ **Previously, I...**  
+- 🛠️ Developed **Portuguese hate speech detection ML**: Machine learning model to identify toxic content in Brazilian digital spaces
 - 🎬 Created **multilingual movie AI**: Automated system for language detection and Portuguese subtitle generation  
 - 🚨 Built **FireAlert App**: Crowdsourced wildfire reporting platform with direct emergency services integration  
-- 🤖 Developed **toxicity filter**: Real-time offensive content blocker using NLP  
-- 📈 Automated healthcare data pipelines with `R` for faster analysis  
-- 🎓 Graduated in Audiovisual Production (yes, I speak film language too!)  
+- 📈 Automated healthcare data pipelines with `R` for faster analysis
 
 ---
 
