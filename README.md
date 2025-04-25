@@ -30,7 +30,7 @@ I’m a first-year Data student at the **Federal University of Piauí in Brazil*
 ---
 
 📝 **Articles & Ideas**  
-- 🏆 *Agentic AI Innovation Challenge 2025*: [Leveraging AI to Democratize Educational and Cultural Audiovisual Content in Brazil](https://app.readytensor.ai/publications/leveraging-ai-to-democratize-educational-and-cultural-audiovisual-content-in-brazil-fgMYzppOwsdM)  
+- 🏆 *Agentic AI Innovation Challenge 2025 - Ranked at 45th from 675 submissions*: [Leveraging AI to Democratize Educational and Cultural Audiovisual Content in Brazil](https://app.readytensor.ai/publications/leveraging-ai-to-democratize-educational-and-cultural-audiovisual-content-in-brazil-fgMYzppOwsdM)  
 - More coming soon on AI, Equity & the SDGs 💡
 
 ---
