@@ -11,7 +11,6 @@ I’m a second-year Data student at the **Federal University of Piauí in Brazil
 - 💼 Assistant Data Engineer: using `python`, `sql`, `spark`, `databricks`, `aws`, `machine learning`, `linear regression`, and `gen ai`. In this role, I am also working with **geospatial data engineering**.
 - 🇧🇷 Developing a dataset to preserve the Brazilian native language **Kanoê**.
 - 🧑‍🏫 Volunteering as an **Artificial Intelligence teacher** at an NGO.
-- 🇺🇳 Volunteering at the **United Nations Major Group for Children and Youth (MGCY)**.
 - ⚡ Designing creative, ethical systems that connect tech and society.
 
 ---
@@ -25,6 +24,7 @@ I’m a second-year Data student at the **Federal University of Piauí in Brazil
 ---
 
 🌟 **Highlights in Leadership & Global Recognition**  
+- 🇺🇳 Volunteering at the **United Nations Major Group for Children and Youth (MGCY)**.
 - 🏛️ Selected as a **Youth Leader** by **Harvard University** and **Your Big Year**, representing youth voices in innovation and sustainability.
 - 🌐 Acted as a **UN Youth Delegate** at the **United Nations ECOSOC Youth Forum 2025**, contributing to global debates on AI, education and mental health.  
 - 🎓 Chosen for **Code in Place 2025** by **Stanford University** between 66k+ candidates to learn alongside a global community of future technologists.
