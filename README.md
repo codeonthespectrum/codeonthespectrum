@@ -76,15 +76,14 @@ I'm a second-year Data Management student at the **Federal University of Piauí 
 - [ ] **PHYSICS71:** Quantum
 - [ ] 🚧 **Capstone Project 3**
 
-</details>---
+</details>
+
+---
 
 🌍 **Leadership & Global Recognition**  
 - 🧑‍🏫 Volunteer as an **Artificial Intelligence teacher** at an NGO.
 - 🇺🇳 Volunteer at the **United Nations Major Group for Children and Youth (MGCY)**.
 - 👨‍🏫 **Teaching Fellow** for the *Data and AI for Social Analysis* course at UFPI.
-- 🏛️ Selected as a **Youth Leader** by **Harvard University** and **Your Big Year**, representing youth voices in innovation and sustainability.
-- 🌐 **UN Youth Delegate** at the **United Nations ECOSOC Youth Forum 2025**, contributing to global debates on AI, education and mental health.  
-- 🎓 Selected for **Code in Place 2025** by **Stanford University** from 66K+ candidates to learn alongside a global community of future technologists.
 
 ---
 
