@@ -1,49 +1,60 @@
 # Welcome! 👋
 Hi! I'm Gabrielly, but you can call me **Kimi** 🧩  
-I'm a **Machine Learning & MLOps Engineer** with 2 years of experience. I specialize in **high-scale data systems** and **human-centered AI** that drives meaningful ROI.
+I'm an **ML Engineer focused on MLOps and AI Infrastructure** with 2 years of experience. I build **production AI systems that scale and cost less**.
 
-I'm a **penultimate year undergraduate Data Management student** at the **Federal University of Piauí (UFPI), Brazil** (Current GPA: 9.47/10).
+I'm pursuing a Bachelor of Science in Science and Technology with focus on **Applied Computing** at Federal University of Rio Grande do Norte. Previously **completed 1.5 years** of an Associate of Science in **Data Management** at Federal University of Piauí **(GPA: 9.5/10)**, where I **published two papers**.
+
+---
+
+## 🔧 Building in Public: Billink AI
+
+I'm currently building **[Billink AI](https://billinkai.com)** — a SaaS platform that automates cloud and AI infrastructure cost auditing using multi-agent LLM pipelines. 
+
+**What it does:**
+- Analyzes billing data from AWS, OpenAI, and Anthropic
+- Identifies waste patterns (idle GPUs, expensive model overuse, storage inefficiencies)
+- Generates actionable recommendations with projected savings
+
+**Roadmap:**
+- ✅ Architecture designed (3-stage agent pipeline: Extractor → Analyst → Advisor)
+- 🚧 MVP in development (CSV upload → analysis → PDF report)
+- 🎯 Goal: 2 paying customers for validation
+
+**Follow the journey:** I share progress, learnings, and challenges on [LinkedIn](https://br.linkedin.com/in/gabrielly-gomes-ml).
 
 ---
 
 👩‍💻 **Currently, I am...** 
-* 💼 **ML Engineer | Data Engineer at Cortex:** Engineered an autonomous Agentic AI system for **80K+ stores**, achieving 80-125% data quality and enabling **$2M in revenue**.
-* 📊 **Analytics Engineering Consultant (Freelance):** Managed telemetry for **3.26 Billion requests** and **67.67 TB of traffic** during Black Friday 2025, maintaining **99.92% uptime**.
-* 🤖 **AI Researcher at UFPI:** Building **hybrid BiLSTM-Transformer models** for hate speech detection. [Test the baseline](https://huggingface.co/spaces/carpenterbb/curupira-bilstm-baseline-app)
-* 🕵🏼 **On going undergraduate thesis:** Researching **Quantum Machine Learning vs. Classical architectures** for NLP in Brazilian Portuguese.
+* 💼 **ML Engineer / MLOps Engineer at Cortex:** Architected an Agentic AI system processing **80K+ stores** across **700+ malls** on Kubernetes, enabling a **$2M revenue** product line. Implemented monitoring, alerting, and batch inference pipelines.
+* 🤖 **AI Researcher at UFPI:** Building hybrid BiLSTM-Transformer models for hate speech detection with feedback loop for retraining. [Fine-Tune Baseline](https://github.com/codeonthespectrum/Curupira.ia) | [BiLSTM Baseline](https://github.com/codeonthespectrum/curupira_BILSTM)
 
 ---
 
-🛠️ **Tech Stack & Expertise**
+🛠️ **Tech Stack**
 
-* **Infrastructure & MLOps:** Kubernetes (EKS), Karpenter (Autoscaling), Spot Instances, Docker, Terraform, MLflow, AWS (S3, Lambda, EC2, EKS, DynamoDB).
-* **Data Engineering:** SQL (PostgreSQL, Supabase), Clickhouse, ETL Pipelines, Data Pipelines, Analytics Engineering.
-* **Machine Learning:** LLMs, Agentic AI, Orchestration (Custom-built in Python and LangChain) NLP, Physics-Informed ML, TensorFlow, PyTorch, Vector Databases (RAG).
-* **Observability:** HyperDX, Grafana, CloudWatch (Latência P95 & Error Budgeting).
-* **Programming:** Python, C++, PySpark, R
-* **Core Math**: Linear Algebra, Statistics, Probability, Calculus
-* **Quantum Computing**: Qiskit, Pennylane (Research focused on QML for NLP)
+* **MLOps & Infrastructure:** Kubernetes (EKS), Karpenter, Spot Instances, Docker, MLflow, CI/CD for ML, Model Monitoring, Drift Detection
+* **Cloud:** AWS (S3, Lambda, EC2, EKS, DynamoDB, Cost Explorer), Terraform, FinOps
+* **Machine Learning:** LLMs, Agentic AI, RAG, NLP, TensorFlow, PyTorch, Physics-Informed ML
+* **Data Engineering:** PostgreSQL, ClickHouse, Supabase, ETL/Data Pipelines, Analytics Engineering
+* **Observability:** Grafana, CloudWatch, HyperDX (P95 Latency, Error Budgeting)
+* **Programming:** Python, SQL, PySpark
 
 ---
 
-✨ **Achievements**
+✨ **Highlights**
 
-* 🏆 **Transpetro/Petrobras Hackathon:** 7th place developing a Physics-Informed ML architecture for industrial prediction.[Test the model](https://huggingface.co/carpenterbb/biofouling-model)
-* 🇧🇷 **I Speak Kanoê:** Developed the 1st and only dataset for the **Kanoê** indigenous language preservation. [Documentation](https://github.com/codeonthespectrum/eu-falo-kanoe.git) | [Download the Dataset](https://huggingface.co/datasets/carpenterbb/i-speak-kanoe)
-* 🏆 **3rd Place at aTip Hackathon:** Accessibility-focused AI solution. [Project](https://github.com/codeonthespectrum/sensorial_app)
-* 📊 **Social Impact:** Created a unique [Water Inequality Dataset of NE Brazil](https://huggingface.co/datasets/carpenterbb/agua_e_esgoto_nordeste_brasileiro) and published peer-reviewed research. [Read the paper](https://sol.sbc.org.br/index.php/enucompi/article/view/35664)
+* 🏆 **Transpetro/Petrobras Hackathon (7th place):** Physics-Informed ML for industrial prediction — identified **$1.89M in fuel savings** and **1,198 tons CO2 avoided**. [Paper](https://dx.doi.org/10.2139/ssrn.6027414) | [Dashboard](https://biofouling-frontend.vercel.app/index.html) | [Model](https://huggingface.co/carpenterbb/biofouling-model) | [REST API](https://carpenterbb-api-transpetro-hackathon.hf.space/)
+* 🇧🇷 **I Speak Kanoê:** Built the first dataset for **Kanoê** indigenous language preservation. [Documentation](https://github.com/codeonthespectrum/eu-falo-kanoe) | [Dataset](https://huggingface.co/datasets/carpenterbb/i-speak-kanoe)
+* 📊 **Social Impact:** Created [Water Inequality Dataset of NE Brazil](https://huggingface.co/datasets/carpenterbb/agua_e_esgoto_nordeste_brasileiro) and published peer-reviewed research. [Paper](https://sol.sbc.org.br/index.php/enucompi/article/view/35664) | [GitHub](https://github.com/codeonthespectrum/freshwater-project)
+* 📊 **Cloud Infrastructure Analyst (Freelance):** Audited infrastructure handling **3.26B requests** with **99.92% availability** during Black Friday, analyzing EKS cluster efficiency and Spot Instance resilience.
 
 ---
 
 🎖️ **Certifications**
 
-* 🎖️ **Stanford University and DeepLearning.ai:** Machine Learning Specialization. [ML Project - Credit Risk Prediction](https://github.com/codeonthespectrum/predicao_risco_cc)
-* 🎖️ **Harvard’s Aspire Institute:** AI-Integrated Leadership Program (AILP) Alumna.
-* 🎖️ **DataCamp:** AI Engineer Associate & Data Engineer Associate.
-
----
-
-📝 **Publications** * 📄 **ENUCOMPI (Peer Reviewed):** [Exposing water gaps and health risks in northeastern Brazil through data](https://sol.sbc.org.br/index.php/enucompi/article/view/35664).
+* **Stanford & DeepLearning.ai:** Machine Learning Specialization. [ML Project](https://github.com/codeonthespectrum/predicao_risco_cc)
+* **Harvard Aspire Institute:** AI-Integrated Leadership Program (AILP) Alumna
+* **DataCamp:** AI Engineer Associate & Data Engineer Associate
 
 ---
 
@@ -99,12 +110,12 @@ I'm a **penultimate year undergraduate Data Management student** at the **Federa
 
 🌍 **Leadership & Volunteering**
 
-* 🧑‍🏫 **Teaching Fellow:** Data and AI for Social Analysis course at UFPI.
-* 🧑‍🏫 **AI Instructor:** Volunteering at an NGO teaching AI for women who wanted to join the tech industry.
-* 🇺🇳 **United Nations MGCY:** Volunteer at the Major Group for Children and Youth.
+* 🧑‍🏫 **Teaching Fellow:** Data and AI for Social Analysis course at UFPI
+* 🧑‍🏫 **AI Instructor:** Teaching AI for women entering tech at NGO
+* 🇺🇳 **United Nations MGCY:** Major Group for Children and Youth volunteer
 
 ---
 
 💬 **Let's connect**
-- 💼 LinkedIn: [Gabrielly Gomes](https://br.linkedin.com/in/gabrielly-gomes-ml?trk=profile-badge)  
-- 📧 Email: [gabrielly.gomes@ufpi.edu.br](mailto:gabrielly.gomes@ufpi.edu.br)
+- 💼 LinkedIn: [Gabrielly Gomes](https://br.linkedin.com/in/gabrielly-gomes-ml)  
+- 📧 Email: [gabrielly.gomes@billinkai.com](mailto:gabrielly.gomes@billinkai.com)
