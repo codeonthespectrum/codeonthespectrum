@@ -2,8 +2,6 @@
 Hi! I'm Gabrielly, but you can call me **Kimi** 🧩  
 I'm an **ML Engineer focused on MLOps and AI Infrastructure** with 2 years of experience. I build **production AI systems that scale and cost less**.
 
-I'm pursuing a Bachelor of Science in Science and Technology with focus on **Applied Computing** at Federal University of Rio Grande do Norte. Previously **completed 1.5 years** of an Associate of Science in **Data Management** at Federal University of Piauí **(GPA: 9.5/10)**, where I **published two papers**.
-
 ---
 
 ## 🔧 Building in Public: Billink AI
